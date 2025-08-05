@@ -14,7 +14,7 @@ os.environ["SUNO_OFFLOAD_CPU"] = "True"        # Offload heavy ops to CPU
 # ✅ CHECK CUDA STATUS
 print("🧠 torch.cuda.is_available():", torch.cuda.is_available())
 print("🚀 GPU:", torch.cuda.get_device_name(0) if torch.cuda.is_available() else "N/A")
-
+#scrap
 # ────────────────────────────────────────────────────────────────────────────────
 # 📂 DIRS
 INPUT_DIR = "generated"

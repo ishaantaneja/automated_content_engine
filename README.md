@@ -25,16 +25,6 @@ The engine is designed to automate the **entire content creation workflow**:
 
 ---
 
-## 📁 Directory Structure
-
-automated_content_engine/
-│
-├─ audio/ # Stores TTS audio files
-├─ generated/ # Stores AI-generated text scripts
-├─ generate_text.py # Generates scripts using Ollama Mistral
-├─ kitten_tts.py # Converts scripts to audio using KittenTTS
-├─ prompts.json # All predefined prompts for text generation
-└─ README.md # Project overview and documentation
 
 ## ⚡ Technology Stack
 

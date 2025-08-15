@@ -1,7 +1,26 @@
 {
-    "motivation": "Ignore narration and formatting. Write 4–6 raw spoken lines for a 30-second YouTube Shorts script. Speak directly to the viewer like you're shaking them out of sleep. Make it bold, powerful, and honest. No fluff. No characters. No storytelling.",
-    "ai_tools": "Ignore ad formatting. Just write 4–6 raw spoken lines for a YouTube Shorts script about a free AI tool that saves time or makes money. No title. No narration. No 'on-screen' instructions. No scene descriptions. Just talk to the viewer like a person sharing a powerful secret. Make it real, fast, and punchy.",
-    "sanatan": "Ignore formatting. Write 4–6 poetic and powerful spoken lines inspired by Bhagavad Gita, Sanatan Dharma, or Paramhansa Yogananda. Speak like a modern-day sage revealing timeless truth to someone lost in illusion. No narration. No names. Just ancient power through modern voice.",
-    "history": "Forget storytelling. Just give 4–6 raw spoken lines sharing a shocking historical or crime fact. Hook hard in the first line. Make the delivery fast, dark, and real — like a whispered secret from the past. No titles, no narration, no characters. Just words that hit.",
-    "facts": "Give 2–3 insane, little-known facts in 4–6 spoken lines. Start with something that slaps. Talk like you're dropping forbidden knowledge. No narration. No titles. No lists. Just fast, mysterious, brain-popping info that keeps them watching till the end."
+  "motivation": [
+    "Write a punchy motivational script under 200 characters that can be read aloud for a short Instagram Reel or YouTube Short. Keep it inspiring, concise, and actionable.",
+    "Create a micro motivational message suitable for TTS output, under 200 characters. Focus on encouragement and clarity."
+  ],
+  "ai_tools": [
+    "Generate a short script under 200 characters introducing a useful AI tool or productivity hack. Keep it engaging and beginner-friendly.",
+    "Write a concise, punchy AI tip suitable for TTS, under 200 characters."
+  ],
+  "history_crime": [
+    "Produce a micro storytelling script under 200 characters describing a historical event or crime fact. Make it intriguing and easy to follow.",
+    "Write a short, engaging story snippet for TTS output about a historical or crime-related event, max 200 characters."
+  ],
+  "quotes_facts": [
+    "Generate a quick fact or quote under 200 characters, suitable for TTS narration. Keep it surprising or thought-provoking.",
+    "Write a short, snappy fact or quote that can be narrated by TTS, under 200 characters."
+  ],
+  "sanatan_dharma": [
+    "Create a short script under 200 characters explaining a Sanatan Dharma principle for TTS narration. Keep it clear and reflective.",
+    "Write a concise, mindful teaching suitable for TTS, under 200 characters."
+  ],
+  "bhagavad_gita": [
+    "Generate a micro-script under 200 characters that explains a verse or teaching from the Bhagavad Gita in simple words for TTS narration.",
+    "Write a concise explanation of a Gita principle for short TTS narration, max 200 characters."
+  ]
 }

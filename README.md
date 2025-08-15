@@ -2,8 +2,6 @@
 
 
 
-# Automated Content Engine
-
 **Automated Content Engine** is a fully automated pipeline for generating high-quality scripts and converting them into audio content for platforms like YouTube Shorts and Instagram Reels. Built for scalability and efficiency, this engine leverages modern AI tools to minimize manual work and maximize output quality.
 
 ---
